@@ -28,7 +28,6 @@
 }
 .navbar1{
     background-color: #651fff;
-    height: 19%;
     padding-top: 0.9%;
 }
 .sub-menu{
@@ -108,5 +107,5 @@ background-color: #651fff;
     text-decoration: none;
      color: #eeff41 !important;
     background-color: #651fff !important; /*Change rollover cell color here*/
-     height: 1% !important;
+    
   }
