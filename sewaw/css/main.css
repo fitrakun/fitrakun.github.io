@@ -109,3 +109,23 @@ background-color: #651fff;
     background-color: #651fff !important; /*Change rollover cell color here*/
     
   }
+.left{
+    position: absolute;
+    z-index: 1;
+}
+.slogan{
+    position: absolute;
+    z-index: 3;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    top: 34%;
+}
+.watchbtn{
+    position: absolute;
+    z-index: 3;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    top: 49%;
+}
