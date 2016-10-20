@@ -25,6 +25,7 @@
     background-color: lightsteelblue;
     padding-left: 7.5%;
     padding-top: 5%;
+    padding-right: 6.9%;
 }
 .navbar1{
     background-color: #651fff;
@@ -109,8 +110,9 @@ background-color: #651fff;
     background-color: #651fff !important; /*Change rollover cell color here*/
     
   }
+
 .left{
-    position: absolute;
+    position: relative;
     z-index: 1;
 }
 .slogan{
@@ -128,4 +130,19 @@ background-color: #651fff;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     top: 49%;
+}
+.rectangle{
+    background-color: white;  
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.tablet, .Layer-1, .Layer-0{
+   
+}
+.rowiklan{
+    padding-left: 5%;
+}
+.text1{
+    margin-top: 3%;
 }
